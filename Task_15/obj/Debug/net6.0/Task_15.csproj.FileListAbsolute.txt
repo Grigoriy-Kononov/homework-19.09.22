@@ -1,0 +1,15 @@
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\bin\Debug\net6.0\Task_15.exe
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\bin\Debug\net6.0\Task_15.deps.json
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\bin\Debug\net6.0\Task_15.runtimeconfig.json
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\bin\Debug\net6.0\Task_15.dll
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\bin\Debug\net6.0\Task_15.pdb
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.csproj.AssemblyReference.cache
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfoInputs.cache
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.AssemblyInfo.cs
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.dll
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\refint\Task_15.dll
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.pdb
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\Task_15.genruntimeconfig.cache
+D:\УЧЕБА\folger git\Сишарп\homework 19.09.22\Task_15\obj\Debug\net6.0\ref\Task_15.dll
